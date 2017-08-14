@@ -1,0 +1,7 @@
+[package]
+name = "forerunner"
+version = "0.1.0"
+authors = ["Per Lundberg <perlun@gmail.com>"]
+
+[dependencies]
+clap = "2"
